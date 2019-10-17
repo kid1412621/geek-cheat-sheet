@@ -4,7 +4,7 @@ MacOS iTerm 2 users must turn on meta key — https://coderwall.com/p/_lmivq
 
 Nice visual cheatsheet from the [article](https://clementc.github.io/blog/2018/01/25/moving_cli/): 
 
-![visual cheetsheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet/blob/master/moving_cli.png?raw=true)
+![visual cheetsheet](https://tva1.sinaimg.cn/large/006y8mN6ly1g81nwxd1usj313l0b4gmp.jpg)
 
 ### Move cursor
 <table>
